@@ -1,0 +1,6 @@
+# Ignore Scala generated files during debugging
+derby.log
+metastore_db*
+
+# Ignore data folder
+data/*
